@@ -5,9 +5,9 @@ export const manufacturers = [
   "Audi",
   "Bentley",
   "BMW",
-  
   "Buick",
   "Cadillac",
+  
   "Chevrolet",
   "Chrysler",
   "Citroen",
