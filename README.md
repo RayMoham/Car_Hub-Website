@@ -1,4 +1,4 @@
-## <a name="introduction">![alt text](image.png) Car Showcase Website ![alt text](image-1.png)</a>
+## <a name="introduction"> 🚗Car Showcase Website🚗 </a>
 
 
 <div align="center">
