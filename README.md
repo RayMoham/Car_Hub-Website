@@ -1,10 +1,10 @@
-## <a name="introduction"> 🚗Car Showcase Website🚗 </a>
+# 🚗Car Showcase Website🚗
 
 
 <div align="center">
   <br />
     <a>
-      <img src="![alt text](image-2.png)" alt="Project Banner">
+      <img src="https://private-user-images.githubusercontent.com/151519281/293452194-2453c186-0ae9-448f-b3c4-077bf910680e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE2OTQ1NjMsIm5iZiI6MTcyMTY5NDI2MywicGF0aCI6Ii8xNTE1MTkyODEvMjkzNDUyMTk0LTI0NTNjMTg2LTBhZTktNDQ4Zi1iM2M0LTA3N2JmOTEwNjgwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyM1QwMDI0MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NmQ4MzZmM2EwZTFiOGZhZDQxYzJiM2NjYmU4ZjQwOGJkMzFkZDRiNGFmM2JiZTIxZDhjNGVhODU4NGZjODM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.G87aUmWY_JIVMV4Cd37x3Y6NvMwHtpwpIZ-RE4gEbnE" alt="Project Banner">
     </a>
   <br />
 
@@ -78,8 +78,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_next13_car_showcase.git
-cd project_next13_car_showcase
+git clone https://github.com/RayMoham/Car_Hub-Website.git
+cd project_next_car_showcase
 ```
 
 **Installation**
@@ -489,29 +489,13 @@ module.exports = {
 
 </details>
 
-## <a name="links">🔗 Links</a>
+## <a name="links">🔗 Links & Visuals</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/1Ague8aTHA6JSrzy3kscEZmrJQdtDxqwy/view)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
+<div align="center">
+  <br />
+    <a>
+      <img src="" alt="Project Banner">
+    </a>
+  <br />
