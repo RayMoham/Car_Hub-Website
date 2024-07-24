@@ -496,6 +496,7 @@ Assets used in the project are [here](https://drive.google.com/file/d/1Ague8aTHA
 <div align="center">
   <br />
     <a>
+      <img src="image1.png" alt="Project Banner">
       <img src="image.png" alt="Project Banner">
     </a>
   <br />
