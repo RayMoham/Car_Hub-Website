@@ -499,3 +499,13 @@ Assets used in the project are [here](https://drive.google.com/file/d/1Ague8aTHA
       <img src="image.png" alt="Project Banner">
     </a>
   <br />
+
+Contributing
+------------
+
+If you would like to contribute to the project, feel free to submit a pull request. Please ensure that your changes are in line with the project's coding standards and practices.
+
+License
+-------
+
+This project is open-source and available under the [MIT License](https://chat.openai.com/LICENSE).
